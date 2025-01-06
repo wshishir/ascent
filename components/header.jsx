@@ -17,11 +17,11 @@ async function Header() {
         <Link href="/">
           <h1 className="text-2xl font-bold">
             <Image
-              src={"/logo2.png"}
-              alt="Zscrum Logo"
+              src={"/ascent.png"}
+              alt="Ascent Logo"
               width={200}
               height={56}
-              className="h-10 w-auto object-contain"
+              className="h-14 w-auto object-contain"
             />
           </h1>
         </Link>
